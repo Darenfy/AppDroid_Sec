@@ -1,6 +1,9 @@
 # AppDroid_Sec
 Something To Do Android Application Security Research
 
+## 基础知识
+- [Android Init 语法解析](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%20Init%20%E8%AF%AD%E6%B3%95%E8%A7%A3%E6%9E%90.md)
+
 ## 工具包
 
 - [Android-Crack-tool for Mac](https://github.com/Jermic/Android-Crack-Tool)  
