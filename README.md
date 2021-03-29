@@ -22,3 +22,5 @@ https://github.com/Darenfy/AppDroid_Sec/blob/main/init.png
 参考链接：https://wx.zsxq.com/dweb2/index/search/%E5%90%AF%E5%8A%A8/alltopics
 
 
+### Zygote 和 System 进程的启动过程
+[Zygote & System —— 从 Init 到 启动](https://github.com/Darenfy/AppDroid_Sec/blob/main/Zygote%20%E5%92%8C%20System%20%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md)
