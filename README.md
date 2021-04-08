@@ -9,6 +9,9 @@ Something To Do Android Application Security Research
 - [Android-Crack-tool for Mac](https://github.com/Jermic/Android-Crack-Tool)  
 支持常规的 ``APK`` 编译与反编译功能
 
+- [dex-finder](https://github.com/LeadroyaL/dex-finder)
+快速寻找一个类所在 dex 的小工具
+
 ## 系统
 
 - ### 查看各个版本的 Android 源码
