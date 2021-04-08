@@ -9,9 +9,10 @@ Something To Do Android Application Security Research
 - [Android-Crack-tool for Mac](https://github.com/Jermic/Android-Crack-Tool)  
 支持常规的 ``APK`` 编译与反编译功能
 
-- [dex-finder](https://github.com/LeadroyaL/dex-finder)
+- [dex-finder](https://github.com/LeadroyaL/dex-finder)  
 快速寻找一个类所在 dex 的小工具
 
+---
 ## 系统
 
 - ### 查看各个版本的 Android 源码
@@ -28,3 +29,7 @@ Something To Do Android Application Security Research
 - ### [Zygote 和 System 进程的启动过程](https://github.com/Darenfy/AppDroid_Sec/blob/main/Zygote%20%E5%92%8C%20System%20%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md)
 
 - ### [Android应用程序进程启动过程](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md)
+
+---
+## HOOK  
+1. 当在进行 Hook 时，如果遇到错误，可以使用 ``cat /proc/pid/maps`` 查看所要 hook 的代码是否已经加载
