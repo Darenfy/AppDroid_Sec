@@ -12,6 +12,17 @@ Something To Do Android Application Security Research
 - [GDA](https://github.com/Darenfy/AppDroid_Sec/blob/main/GDA.md)  
 国内研发的 ``APK`` 分析工具 【注：目前体验感不是太好】
 
+#### 分析工具
+- IDA Pro
+- 编译与反编译
+  - [JEB](https://github.com/Darenfy/jeb_gather)
+  - [Smali/BakSmali](https://github.com/JesusFreke/smali)
+  - [ApkTool](https://ibotpeaches.github.io/Apktool/)
+- 反编译查看
+  - [JD-GUI](https://github.com/java-decompiler/jd-gui/releases)
+  - [JADX](https://github.com/skylot/jadx)
+  - [ByteCode Viewer](https://github.com/Konloch/bytecode-viewer) -> 本人基本没用过
+
 ### 辅助工具
 - [dex-finder](https://github.com/LeadroyaL/dex-finder)  
 快速寻找一个类所在 dex 的小工具
