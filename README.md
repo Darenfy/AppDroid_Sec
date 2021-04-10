@@ -4,6 +4,12 @@ Something To Do Android Application Security Research
 ## 基础知识
 - [Android Init 语法解析](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%20Init%20%E8%AF%AD%E6%B3%95%E8%A7%A3%E6%9E%90.md)
 
+### 文件格式相关
+- DEX/ODEX
+  - [Dalvik 操作码](https://github.com/Darenfy/AppDroid_Sec/blob/main/Dalvik%E6%93%8D%E4%BD%9C%E7%A0%81.pdf)
+  - [DEX 文件格式](https://github.com/Darenfy/AppDroid_Sec/blob/main/dex.jpg) -> 出自虫神
+  - [ODEX 文件格式](https://github.com/Darenfy/AppDroid_Sec/blob/main/odex.jpg) -> 出自虫神
+
 ## 工具包
 
 - [Android-Crack-tool for Mac](https://github.com/Jermic/Android-Crack-Tool)  
