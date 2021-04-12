@@ -10,6 +10,12 @@ Something To Do Android Application Security Research
   - [DEX 文件格式](https://github.com/Darenfy/AppDroid_Sec/blob/main/dex.jpg) -> 出自虫神
   - [ODEX 文件格式](https://github.com/Darenfy/AppDroid_Sec/blob/main/odex.jpg) -> 出自虫神
 
+- [AXML](https://github.com/Darenfy/AppDroid_Sec/blob/main/axml.png) -> 出自虫神  
+  - AXML 文件格式的修改: [AmBinaryEditor](https://github.com/ele7enxxh/AmBinaryEditor)、[AndroidManifestFix](https://github.com/zylc369/AndroidManifestFix)
+- [ARSC](https://github.com/Darenfy/AppDroid_Sec/blob/main/arsc.png) -> 出自虫神
+
+- [OAT](https://github.com/Darenfy/AppDroid_Sec/blob/main/oat.png) -> 出自虫神
+
 ## 工具包
 
 - [Android-Crack-tool for Mac](https://github.com/Jermic/Android-Crack-Tool)  
