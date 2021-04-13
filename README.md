@@ -47,7 +47,11 @@ Something To Do Android Application Security Research
 
 
 #### 分析工具
-- ``IDA Pro``
+- ``IDA Pro``  
+- [Hopper](https://www.hopperapp.com/)  
+- 动态调试器  
+  - GDB  
+  - LLDB  
 - 编译与反编译
   - [JEB](https://github.com/Darenfy/jeb_gather)
   - [Smali/BakSmali](https://github.com/JesusFreke/smali)
