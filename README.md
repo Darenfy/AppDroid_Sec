@@ -95,7 +95,11 @@ HOOK 类型：
 
 Hook 注入框架：  
 - [Xposed](https://repo.xposed.info/)    
-- [Frida](https://frida.re/)    
+- [Frida](https://frida.re/)  
+
+动态注入：  
+- DEX 注入  
+- SO 注入
 
 注：  
 1. 当在进行 Hook 时，如果遇到错误，可以使用 ``cat /proc/pid/maps`` 查看所要 hook 的代码是否已经加载
