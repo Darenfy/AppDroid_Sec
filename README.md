@@ -16,6 +16,13 @@ Something To Do Android Application Security Research
 
 - [OAT](https://github.com/Darenfy/AppDroid_Sec/blob/main/oat.png) -> 出自虫神
 
+
+不知名网友的统概图（待完善）
+- [Android Dalvik虚拟机](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%20Dalvik%E8%99%9A%E6%8B%9F%E6%9C%BA.png)
+
+- [Android文件格式](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.png)
+
+
 ## 工具包
 
 - [Android-Crack-tool for Mac](https://github.com/Jermic/Android-Crack-Tool)  
