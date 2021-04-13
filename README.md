@@ -16,6 +16,8 @@ Something To Do Android Application Security Research
 
 - [OAT](https://github.com/Darenfy/AppDroid_Sec/blob/main/oat.png) -> 出自虫神
 
+- ELF  
+  - [ARM 汇编指令集支持情况](https://github.com/Darenfy/AppDroid_Sec/blob/main/ins_set.png)
 
 不知名网友的统概图（待完善）
 - [Android Dalvik虚拟机](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%20Dalvik%E8%99%9A%E6%8B%9F%E6%9C%BA.png)
@@ -31,8 +33,16 @@ Something To Do Android Application Security Research
 - [GDA](https://github.com/Darenfy/AppDroid_Sec/blob/main/GDA.md)  
 国内研发的 ``APK`` 分析工具 【注：目前体验感不是太好】
 
+- [Androguard](https://github.com/androguard/androguard)  
+用来处理 ``APK`` 的 ``Python`` 工具包，很多自动化分析项目都内嵌
+
+- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)  
+跨平台开源自动化动态分析框架
+
+
+
 #### 分析工具
-- IDA Pro
+- ``IDA Pro``
 - 编译与反编译
   - [JEB](https://github.com/Darenfy/jeb_gather)
   - [Smali/BakSmali](https://github.com/JesusFreke/smali)
@@ -47,7 +57,7 @@ Something To Do Android Application Security Research
 快速寻找一个类所在 dex 的小工具
 
 ---
-## 系统
+## 系统源码
 
 - ### 查看各个版本的 Android 源码
   - http://aosp.opersys.com/#  
