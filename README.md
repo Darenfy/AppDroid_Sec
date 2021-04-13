@@ -16,7 +16,7 @@ Something To Do Android Application Security Research
 
 - [OAT](https://github.com/Darenfy/AppDroid_Sec/blob/main/oat.png) -> 出自虫神
 
-- ELF  
+- [ELF](https://github.com/Darenfy/AppDroid_Sec/blob/main/elf.png) -> 出自虫神  
   - [ARM 汇编指令集支持情况](https://github.com/Darenfy/AppDroid_Sec/blob/main/ins_set.png)
 
 - 文件格式分析工具  
@@ -29,7 +29,7 @@ Something To Do Android Application Security Research
 - [Android文件格式](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.png)
 
 
-
+---
 ## 工具包
 
 - [Android-Crack-tool for Mac](https://github.com/Jermic/Android-Crack-Tool)  
@@ -43,8 +43,6 @@ Something To Do Android Application Security Research
 
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)  
 跨平台开源自动化动态分析框架
-
-
 
 #### 分析工具
 - ``IDA Pro``  
@@ -103,3 +101,49 @@ Hook 注入框架：
 
 注：  
 1. 当在进行 Hook 时，如果遇到错误，可以使用 ``cat /proc/pid/maps`` 查看所要 hook 的代码是否已经加载
+
+
+---
+## 反破解  
+- 资源加密  
+- 代码混淆  
+  - 源码混淆  
+  - 模版混淆  
+  - AST 混淆  
+  - IR 混淆  
+  - DEX 混淆  
+  - DEX 二次混淆  
+- 反调试技术  
+  - 调试器状态  
+  - 调试器端口  
+  - 进程状态  
+- 运行环境检测  
+  - 模拟器检测  
+  - Root 检测  
+  - Hook 检测  
+
+---
+## 软件壳  
+Android 壳迭代
+- 动态加载型壳  
+  基于压缩壳和加密壳，主要对本地的 DEX 文件、so 库、资源文件进行加密，运行时进行动态还原。一般会采用一定的反调试方法来阻止动态调试  
+  - 缓存脱壳法  
+  - 内存 Dump 脱壳  
+  - 动态调试脱壳  
+  - Hook 脱壳  
+  - 系统定制脱壳  
+- 代码抽取型壳  
+  提取 DEX 方法进行加密保存，运行时调用 Native 解密方法进行还原，甚至会通过执行前解密，执行后加密方法防止内存 Dump。通常会采用多进程保护、API Hook 等反调试与反内存 Dump 技术  
+  - 内存重组脱壳  
+  - Hook 脱壳  
+  - 系统定制脱壳  
+- 代码混淆壳  
+  基于 LLVM Pass 实现的代码混淆壳，使用较多的技术有指令变换、花指令混淆、指令混淆、代码流程混淆等  
+  - Obfuscator-LLVM  
+    - 指令替换  
+    - 控制流平坦化  
+    - 伪造控制流  
+  - 指令模式匹配 + 垃圾代码消除  
+  - 确定相关块关系并修正  
+  - 修改 bl 指令并修正
+
