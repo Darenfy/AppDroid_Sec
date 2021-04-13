@@ -84,5 +84,18 @@ Something To Do Android Application Security Research
 - ### [Android应用程序进程启动过程](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md)
 
 ---
-## HOOK  
+## HOOK 与注入  
+HOOK 类型：  
+- Dalvik Hook  
+- ART Hook  
+- So Hook  
+  - LD_PRELOAD Hook  
+  - GOT Hook  
+  - Inline Hook  
+
+Hook 注入框架：  
+- [Xposed](https://repo.xposed.info/)    
+- [Frida](https://frida.re/)    
+
+注：  
 1. 当在进行 Hook 时，如果遇到错误，可以使用 ``cat /proc/pid/maps`` 查看所要 hook 的代码是否已经加载
