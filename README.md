@@ -7,26 +7,26 @@ Something To Do Android Application Security Research
 ### 文件格式相关
 - DEX/ODEX
   - [Dalvik 操作码](https://github.com/Darenfy/AppDroid_Sec/blob/main/Dalvik%E6%93%8D%E4%BD%9C%E7%A0%81.pdf)
-  - [DEX 文件格式](https://github.com/Darenfy/AppDroid_Sec/blob/main/dex.jpg) -> 出自虫神
-  - [ODEX 文件格式](https://github.com/Darenfy/AppDroid_Sec/blob/main/odex.jpg) -> 出自虫神
+  - [DEX 文件格式](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/dex.jpg) -> 出自虫神
+  - [ODEX 文件格式](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/odex.jpg) -> 出自虫神
 
-- [AXML](https://github.com/Darenfy/AppDroid_Sec/blob/main/axml.png) -> 出自虫神  
+- [AXML](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/axml.png) -> 出自虫神  
   - AXML 文件格式的修改: [AmBinaryEditor](https://github.com/ele7enxxh/AmBinaryEditor)、[AndroidManifestFix](https://github.com/zylc369/AndroidManifestFix)
-- [ARSC](https://github.com/Darenfy/AppDroid_Sec/blob/main/arsc.png) -> 出自虫神
+- [ARSC](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/arsc.png) -> 出自虫神
 
-- [OAT](https://github.com/Darenfy/AppDroid_Sec/blob/main/oat.png) -> 出自虫神
+- [OAT](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/oat.png) -> 出自虫神
 
-- [ELF](https://github.com/Darenfy/AppDroid_Sec/blob/main/elf.png) -> 出自虫神  
-  - [ARM 汇编指令集支持情况](https://github.com/Darenfy/AppDroid_Sec/blob/main/ins_set.png)
+- [ELF](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/elf.png) -> 出自虫神  
+  - [ARM 汇编指令集支持情况](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/ins_set.png)
 
 - 文件格式分析工具  
   - 010 Editor  
   - [gnu binutils](https://www.gnu.org/software/binutils/)
 
 不知名网友的统概图（待完善）
-- [Android Dalvik虚拟机](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%20Dalvik%E8%99%9A%E6%8B%9F%E6%9C%BA.png)
+- [Android Dalvik虚拟机](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/Android%20Dalvik%E8%99%9A%E6%8B%9F%E6%9C%BA.png)
 
-- [Android文件格式](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.png)
+- [Android文件格式](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/Android%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.png)
 
 
 ---
