@@ -150,6 +150,7 @@ Android 壳迭代
 ---
 ## 学习笔记  
 ### 刷机
+- [安卓刷机常用资源](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%E5%88%B7%E6%9C%BA.pdf)  
 - [彻底搞定刷机 1⃣️](https://github.com/Darenfy/AppDroid_Sec/blob/main/%E5%BD%BB%E5%BA%95%E6%90%9E%E5%AE%9A%E5%88%B7%E6%9C%BA1%E2%83%A3%EF%B8%8F.pdf)  
 - [彻底搞定刷机 2⃣️](https://github.com/Darenfy/AppDroid_Sec/blob/main/%E5%BD%BB%E5%BA%95%E6%90%9E%E5%AE%9A%E5%88%B7%E6%9C%BA2%E2%83%A3%EF%B8%8F.pdf)  
 - [彻底搞定刷机 3⃣️](https://github.com/Darenfy/AppDroid_Sec/blob/main/%E5%BD%BB%E5%BA%95%E6%90%9E%E5%AE%9A%E5%88%B7%E6%9C%BA3%E2%83%A3%EF%B8%8F%20%26%20Frida.pdf)
