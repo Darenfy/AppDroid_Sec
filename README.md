@@ -153,3 +153,7 @@ Android 壳迭代
 - [彻底搞定刷机 1⃣️](https://github.com/Darenfy/AppDroid_Sec/blob/main/%E5%BD%BB%E5%BA%95%E6%90%9E%E5%AE%9A%E5%88%B7%E6%9C%BA1%E2%83%A3%EF%B8%8F.pdf)  
 - [彻底搞定刷机 2⃣️](https://github.com/Darenfy/AppDroid_Sec/blob/main/%E5%BD%BB%E5%BA%95%E6%90%9E%E5%AE%9A%E5%88%B7%E6%9C%BA2%E2%83%A3%EF%B8%8F.pdf)  
 - [彻底搞定刷机 3⃣️](https://github.com/Darenfy/AppDroid_Sec/blob/main/%E5%BD%BB%E5%BA%95%E6%90%9E%E5%AE%9A%E5%88%B7%E6%9C%BA3%E2%83%A3%EF%B8%8F%20%26%20Frida.pdf)
+### 编译  
+- [彻底搞定编译 1⃣️](https://github.com/Darenfy/AppDroid_Sec/blob/main/%E5%BD%BB%E5%BA%95%E6%90%9E%E5%AE%9A%E7%BC%96%E8%AF%911%E2%83%A3%EF%B8%8F.pdf)  
+- [彻底搞定编译 2⃣️](https://github.com/Darenfy/AppDroid_Sec/blob/main/%E5%BD%BB%E5%BA%95%E6%90%9E%E5%AE%9A%E7%BC%96%E8%AF%912%E2%83%A3%EF%B8%8F.pdf)  
+- [彻底搞定编译 3⃣️](https://github.com/Darenfy/AppDroid_Sec/blob/main/%E5%BD%BB%E5%BA%95%E6%90%9E%E5%AE%9A%E7%BC%96%E8%AF%913%E2%83%A3%EF%B8%8F.pdf)
