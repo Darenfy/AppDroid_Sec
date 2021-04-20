@@ -1,5 +1,5 @@
 ## 概览
-安卓架构图
+安卓架构图  
 ![](https://source.android.com/devices/images/ape_fwk_all.png)
 
 #### HAL hardware abstraction layer
@@ -53,7 +53,7 @@ HIDL接口的C++实现 hidl-gen编译器基于 HIDL .hal 文件自动生成的�
 客户端实现是指通过在接口上调用方法使用该接口的代码
 服务器实现是指可接受来自客户端的调用并返回结果
 
-旧版HAL发展历程
+旧版HAL发展历程  
 ![](https://source.android.com/devices/architecture/images/treble_cpp_legacy_hal_progression.png)
 
 HIDL 接口软件包位于 hardware/interfaces 或 vendor/ 目录下
@@ -74,7 +74,7 @@ interface IFoo {
 };
 ```
 IFoo.hal 文件应该在 hardware/interfaces/samples/1.0 下
-会在 samples 软件包中创建一个 IFoo interface
+会在 samples 软件包中创建一个 IFoo interface  
 ![](https://source.android.com/devices/architecture/images/treble_cpp_compiler_generated_files.png)
 
 HIDL 软件包中定义的每个接口在其软件包的命名空间内都有自己的自动生成的C++类。
