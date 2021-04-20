@@ -2,7 +2,9 @@
 Something To Do Android Application Security Research
 
 ## 基础知识
-- [Android Init 语法解析](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%20Init%20%E8%AF%AD%E6%B3%95%E8%A7%A3%E6%9E%90.md)
+- [Android Init 语法解析](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%20Init%20%E8%AF%AD%E6%B3%95%E8%A7%A3%E6%9E%90.md)  
+- [Android架构学习 - O](https://github.com/Darenfy/AppDroid_Sec/blob/main/Android%E6%9E%B6%E6%9E%84%E5%AD%A6%E4%B9%A0.md)
+- [TrustZone基础](https://github.com/Darenfy/AppDroid_Sec/blob/main/TrustZone%E5%9F%BA%E7%A1%80.md)
 
 ### 文件格式相关
 - DEX/ODEX
