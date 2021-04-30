@@ -20,7 +20,8 @@ Something To Do Android Application Security Research
 - [OAT](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/oat.png) -> 出自虫神
 
 - [ELF](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/elf.png) -> 出自虫神  
-  - [ARM 汇编指令集支持情况](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/ins_set.png)
+  - [ARM 汇编指令集支持情况](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/ins_set.png)  
+  - [换种方式理解 ELF 文件格式](https://bbs.pediy.com/thread-267306.htm)
 
 - 文件格式分析工具  
   - 010 Editor  
