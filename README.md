@@ -76,7 +76,7 @@ Something To Do Android Application Security Research
 
 - ### Android 系统启动流程 8.1.0_r1 版本
   根据 r0ysue 知识星球的内容画的流程图  
-  https://github.com/Darenfy/AppDroid_Sec/blob/main/init.png
+  https://github.com/Darenfy/AppDroid_Sec/blob/main/img/init.png
 
   参考链接：https://wx.zsxq.com/dweb2/index/search/%E5%90%AF%E5%8A%A8/alltopics
 
