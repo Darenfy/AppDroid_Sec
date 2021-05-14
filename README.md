@@ -91,6 +91,8 @@ Something To Do Android Application Security Research
   - [HwBinder通信原理](https://github.com/Darenfy/AppDroid_Sec/blob/main/Binder/HwBinder%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86/HwBinder%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86.md)  
   - [拨云见日 - Binder](https://github.com/Darenfy/AppDroid_Sec/blob/main/Binder/%E6%8B%A8%E4%BA%91%E8%A7%81%E6%97%A5.md)
 
+- ### [Dex 加载流程图](https://github.com/Darenfy/AppDroid_Sec/blob/main/img/DexClassLoader.png)
+
 ---
 ## HOOK 与注入  
 HOOK 类型：  
